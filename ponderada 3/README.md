@@ -28,4 +28,4 @@ ros2 run chat chat
 ```
 
 ## Demonstração
-[video](recording-2023-11-18-15-11-36.webm)
+[recording-2023-11-18-15-11-36.webm](https://github.com/gio-rodrigues0/ponderadas_m8/assets/99195612/feacaf49-466d-49ae-abbb-1dfc82f971e0)
