@@ -28,4 +28,4 @@ ros2 run chat chat
 ```
 
 ## Demonstração
-[video]()
+[video](recording-2023-11-18-15-11-36.webm)
