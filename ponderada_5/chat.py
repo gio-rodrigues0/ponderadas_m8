@@ -46,6 +46,7 @@ with gr.Blocks() as demo:
     clear = gr.ClearButton([msg, chatbot])
 
     def respond(message, chat_history):
+        bot_message = ""
         for s in chain.stream(message):
             bot_message += s
         chat_history.append((message, bot_message))
