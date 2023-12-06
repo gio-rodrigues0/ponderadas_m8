@@ -35,3 +35,7 @@ import numpy as np
 
 print(np.argmax(prediction))
 ```
+
+## Demonstração
+[ponderada7.webm](https://github.com/gio-rodrigues0/ponderadas_m8/assets/99195612/dc95cab7-96cb-4c00-aa79-aa0138b8490b)
+
