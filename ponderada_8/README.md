@@ -21,3 +21,5 @@ python tradutor.py
 ```
 
 ## Demonstração
+https://github.com/gio-rodrigues0/ponderadas_m8/assets/99195612/cb3a46e5-b910-4355-8be4-7fc8bf8bc810
+
